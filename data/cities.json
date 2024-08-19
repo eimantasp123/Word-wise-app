@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Teruel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-28T23:14:57.881Z",
+      "notes": "",
+      "position": {
+        "lat": "40.41401658183824",
+        "lng": "-1.136514908902364"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Vejle",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2024-06-06T07:59:24.629Z",
+      "notes": "",
+      "position": {
+        "lat": "55.70167027768124",
+        "lng": "9.558382577378206"
+      },
+      "id": 3
+    }
+  ]
+}
